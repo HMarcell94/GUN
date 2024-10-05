@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "LogLoader": {
+      "commandName": "Project"
+    },
+    "LogLoaderWithArgs": {
+      "commandName": "Project",
+      "commandLineArgs": "-InputFile systemlog.csv"
+    }
+  }
+}
