@@ -1,0 +1,14 @@
+D:\vs repos\Dolgozat\LogCommon\bin\Debug\net6.0\LogCommon.deps.json
+D:\vs repos\Dolgozat\LogCommon\bin\Debug\net6.0\LogCommon.dll
+D:\vs repos\Dolgozat\LogCommon\bin\Debug\net6.0\LogCommon.pdb
+D:\vs repos\Dolgozat\LogCommon\obj\Debug\net6.0\LogCommon.csproj.AssemblyReference.cache
+D:\vs repos\Dolgozat\LogCommon\obj\Debug\net6.0\LogCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs repos\Dolgozat\LogCommon\obj\Debug\net6.0\LogCommon.AssemblyInfoInputs.cache
+D:\vs repos\Dolgozat\LogCommon\obj\Debug\net6.0\LogCommon.AssemblyInfo.cs
+D:\vs repos\Dolgozat\LogCommon\obj\Debug\net6.0\LogCommon.csproj.CoreCompileInputs.cache
+D:\vs repos\Dolgozat\LogCommon\obj\Debug\net6.0\LogCommon.dll
+D:\vs repos\Dolgozat\LogCommon\obj\Debug\net6.0\refint\LogCommon.dll
+D:\vs repos\Dolgozat\LogCommon\obj\Debug\net6.0\LogCommon.pdb
+D:\vs repos\Dolgozat\LogCommon\obj\Debug\net6.0\ref\LogCommon.dll
+D:\vs repos\Dolgozat\LogCommon\bin\Debug\net6.0\LogCommon.runtimeconfig.json
+D:\vs repos\Dolgozat\LogCommon\obj\Debug\net6.0\LogCommon.genruntimeconfig.cache
