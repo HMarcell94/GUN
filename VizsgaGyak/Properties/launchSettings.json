@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Paraméteres": {
+      "commandName": "Project",
+      "commandLineArgs": "-InputFile .\\systemlog.csv"
+    },
+    "Paraméter nélküli": {
+      "commandName": "Project"
+    },
+    "HIbás paraméter": {
+      "commandName": "Project",
+      "commandLineArgs": "-InputFil xy.csv"
+    }
+  }
+}
