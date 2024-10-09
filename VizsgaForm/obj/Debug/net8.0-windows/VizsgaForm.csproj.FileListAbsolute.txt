@@ -1,0 +1,139 @@
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\VizsgaForm.exe
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\VizsgaForm.deps.json
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\VizsgaForm.runtimeconfig.json
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\VizsgaForm.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\VizsgaForm.pdb
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\VizsgaCommon.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\VizsgaCommon.pdb
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.csproj.AssemblyReference.cache
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.Form1.resources
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.csproj.GenerateResource.cache
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.AssemblyInfoInputs.cache
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.AssemblyInfo.cs
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.csproj.CoreCompileInputs.cache
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.csproj.Up2Date
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\refint\VizsgaForm.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.pdb
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.genruntimeconfig.cache
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\ref\VizsgaForm.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\VizsgaForm.exe
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\VizsgaForm.deps.json
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\VizsgaForm.runtimeconfig.json
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\VizsgaForm.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\VizsgaForm.pdb
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\VizsgaCommon.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\bin\Debug\net8.0-windows\VizsgaCommon.pdb
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.csproj.AssemblyReference.cache
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.F.resources
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.Form1.resources
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.csproj.GenerateResource.cache
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.AssemblyInfoInputs.cache
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.AssemblyInfo.cs
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.csproj.CoreCompileInputs.cache
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.csproj.Up2Date
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\refint\VizsgaForm.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.pdb
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\VizsgaForm.genruntimeconfig.cache
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaForm\obj\Debug\net8.0-windows\ref\VizsgaForm.dll
