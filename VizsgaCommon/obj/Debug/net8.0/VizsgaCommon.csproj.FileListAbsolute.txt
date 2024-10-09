@@ -1,0 +1,24 @@
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaCommon\bin\Debug\net8.0\VizsgaCommon.deps.json
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaCommon\bin\Debug\net8.0\VizsgaCommon.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaCommon\bin\Debug\net8.0\VizsgaCommon.pdb
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\VizsgaCommon.csproj.AssemblyReference.cache
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\VizsgaCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\VizsgaCommon.AssemblyInfoInputs.cache
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\VizsgaCommon.AssemblyInfo.cs
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\VizsgaCommon.csproj.CoreCompileInputs.cache
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\VizsgaCommon.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\refint\VizsgaCommon.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\VizsgaCommon.pdb
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\ref\VizsgaCommon.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaCommon\bin\Debug\net8.0\VizsgaCommon.deps.json
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaCommon\bin\Debug\net8.0\VizsgaCommon.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaCommon\bin\Debug\net8.0\VizsgaCommon.pdb
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\VizsgaCommon.csproj.AssemblyReference.cache
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\VizsgaCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\VizsgaCommon.AssemblyInfoInputs.cache
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\VizsgaCommon.AssemblyInfo.cs
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\VizsgaCommon.csproj.CoreCompileInputs.cache
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\VizsgaCommon.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\refint\VizsgaCommon.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\VizsgaCommon.pdb
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.05.03\VizsgaGyak\VizsgaCommon\obj\Debug\net8.0\ref\VizsgaCommon.dll
