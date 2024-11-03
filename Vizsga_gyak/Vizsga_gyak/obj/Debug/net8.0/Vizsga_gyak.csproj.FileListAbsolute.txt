@@ -1,0 +1,38 @@
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\systemlog.json
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\Vizsga_gyak.exe
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\Vizsga_gyak.deps.json
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\Vizsga_gyak.runtimeconfig.json
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\Vizsga_gyak.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\Vizsga_gyak.pdb
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.AssemblyInfoInputs.cache
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.AssemblyInfo.cs
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.csproj.CoreCompileInputs.cache
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\refint\Vizsga_gyak.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.pdb
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.genruntimeconfig.cache
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\ref\Vizsga_gyak.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.csproj.AssemblyReference.cache
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_g.33A668CB.Up2Date
+C:\Users\gabor.varga\VMSZC - Nádasdy Tamás Technikum és Kollégium\Szoftverfejlesztés (13. évfolyam) - General\Órai munkák (2023-24)\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\systemlog.csv
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\systemlog.csv
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\systemlog.json
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\Vizsga_gyak.exe
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\Vizsga_gyak.deps.json
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\Vizsga_gyak.runtimeconfig.json
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\Vizsga_gyak.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\Vizsga_gyak.pdb
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.csproj.AssemblyReference.cache
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.AssemblyInfoInputs.cache
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.AssemblyInfo.cs
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.csproj.CoreCompileInputs.cache
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_g.33A668CB.Up2Date
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\refint\Vizsga_gyak.dll
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.pdb
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\Vizsga_gyak.genruntimeconfig.cache
+C:\Users\hercz\Desktop\Varga Egész éves 23-24\2024.03.25\Vizsga_gyak\Vizsga_gyak\obj\Debug\net8.0\ref\Vizsga_gyak.dll
