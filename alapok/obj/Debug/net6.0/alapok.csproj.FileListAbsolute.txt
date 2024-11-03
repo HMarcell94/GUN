@@ -1,0 +1,14 @@
+C:\Users\36702\Desktop\2023,24\A.Varga G\alapok\bin\Debug\net6.0\alapok.exe
+C:\Users\36702\Desktop\2023,24\A.Varga G\alapok\bin\Debug\net6.0\alapok.deps.json
+C:\Users\36702\Desktop\2023,24\A.Varga G\alapok\bin\Debug\net6.0\alapok.runtimeconfig.json
+C:\Users\36702\Desktop\2023,24\A.Varga G\alapok\bin\Debug\net6.0\alapok.dll
+C:\Users\36702\Desktop\2023,24\A.Varga G\alapok\bin\Debug\net6.0\alapok.pdb
+C:\Users\36702\Desktop\2023,24\A.Varga G\alapok\obj\Debug\net6.0\alapok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36702\Desktop\2023,24\A.Varga G\alapok\obj\Debug\net6.0\alapok.AssemblyInfoInputs.cache
+C:\Users\36702\Desktop\2023,24\A.Varga G\alapok\obj\Debug\net6.0\alapok.AssemblyInfo.cs
+C:\Users\36702\Desktop\2023,24\A.Varga G\alapok\obj\Debug\net6.0\alapok.csproj.CoreCompileInputs.cache
+C:\Users\36702\Desktop\2023,24\A.Varga G\alapok\obj\Debug\net6.0\alapok.dll
+C:\Users\36702\Desktop\2023,24\A.Varga G\alapok\obj\Debug\net6.0\refint\alapok.dll
+C:\Users\36702\Desktop\2023,24\A.Varga G\alapok\obj\Debug\net6.0\alapok.pdb
+C:\Users\36702\Desktop\2023,24\A.Varga G\alapok\obj\Debug\net6.0\alapok.genruntimeconfig.cache
+C:\Users\36702\Desktop\2023,24\A.Varga G\alapok\obj\Debug\net6.0\ref\alapok.dll
